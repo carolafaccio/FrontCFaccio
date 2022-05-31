@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+     <section>
+        <p>Grandes ofertas en comederos</p>
+        <ul>
+            <li>Español</li>
+            <li>PRICE</li>
+        </ul>        
+     </section>
+     <hr>
+     <section>    
+        <img src="img/cat.png" alt="cat"> <p>Front Cat&Dog</p> <img src="img/dog.png" alt="dog">
+     <nav>
+         <ul>
+             <li> <img src="img/imgcategorias.png" alt="categorias"> <p>categorias</p></li>
+             <li><img src="img/imgpets.png" alt="Pets"> <p>Pets</p></li>
+             <li><img src="img/imgNosotros.png" alt="Nosotros"> <p>Nosotros</p></li>
+             <li><img src="img/imgcontactenos.png" alt="Contáctenos"> <p>Contáctenos</p></li>
+         </ul>  
+     </nav>
+     </section>   
+    </header>  
+    <main>
+        <img src="img/Imagenppal.png" alt="ImagenPrincipal">
+        <p>!Es un placer tenerte aquí!</p>
+        <p>!Coederos en descuento!</p>
+        <p>COMEDEROS</p>
+
+        <img src="img/Pata.png" alt="Pata">
+
+        <p><h2>Productos Destacados</h2></p>   
+        <p>Comederos</p>
+        <p>Accesorios</p>
+        <p>Comida</p>
+
+        <img src="img/Churrasco.png" alt="Churrasco">
+        <p>Juguete Churrasquito</p>
+        <p>$150</p>
+        <img src="img/ComederoPerro.png" alt="Comedero">
+        <p>Comedero para perro</p>
+        <p>$250</p>
+        <img src="img/JugueteHuesito.png" alt="huesito">
+        <p>Juguete Huesito</p>
+        <p>$650</p>
+
+        <section>
+            <p><h2>Contáctenos</h2></p>
+            <ul>
+                <li>Nombre y Apellido</li>
+                <li>Ingresa tu correo electrónico</li>
+                <li>Teléfono</li>
+            </ul>
+            <P>Resetear</P>
+            <p>Enviar</p>
+        </section> 
+    </main>
+    <section>
+
+        <img src="img/MasNovedades.png" alt="Más novedade"> <p>Suscríbete para más novedades</p>
+
+        <p>Ingresá tu correo electronico</p>
+        <p>Suscribirme</p>      
+    </section>    
+</body>
+<footer>
+<ul>
+    <li>Localidad</li>  <img src="img/localizacion.png" alt="Localizacion">
+    <li>Teléfono</li>   <img src="img/telefono.png" alt="Telefono">
+    <li>Correo Electrónico</li> <img src="img/correo.png" alt="correo">
+    <p>Dirección de correo</p> 
+</ul>
+
+<img src="img/cat.png" alt="cat"> <p>Front Cat&Dog</p> <img src="img/dog.png" alt="dog">
+</footer>
+</html>
